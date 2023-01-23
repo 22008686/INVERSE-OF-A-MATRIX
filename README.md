@@ -10,10 +10,10 @@ To write a python program to find the inverse of a matrix
 
 ## Algorithm:
 
-### Step1 : Import numpy package
-### Step 2: Get the input matrix
-### Step 3: Find the inverse of the matrix
-### Step 4: Print the result
+step 1:Import the numpy package
+step 2:Get the input matrix
+step 3:Find the inverse matrix
+step 4:Print the result
 
 ## Program: 
 
